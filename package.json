@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "Rafael Queiroz Logrado",
   "license": "MIT",
-  "description": "programa para cálculo de sólidos geométricos"
+  "description": "programa para cálculo de sólidos geométricos",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
 }
